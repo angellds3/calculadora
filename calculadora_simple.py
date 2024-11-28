@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1AbPfc4dwFPhpo2snkDC_y7kLLyumGtEC
 """
 
-import steamlit as st
+import streamlit as st
 
 ## Titulo de la applicacion
 st.title("Calculadora hora")
